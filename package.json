@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ryanmuhammad/understanding-ts#readme",
   "devDependencies": {
+    "minimist": ">=1.2.3",
     "lite-server": "^2.5.4"
   }
 }
